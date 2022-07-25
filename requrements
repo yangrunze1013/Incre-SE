@@ -1,0 +1,6 @@
+networkx
+python-louvain
+matplotlib
+numpy
+gensim
+node2vec
